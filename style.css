@@ -1,0 +1,11 @@
+.cabeçalho{background-color:black;color:aqua; display:flex; justify-content: space-around;}
+.imagem-logo{widht:20%}
+.cabeçalho-lista-intem{display:anlise-block;margin:0 16px;font: size 20px;}
+.cabeçalho-lista-intem{displaay:inline-block;}
+.futebol-imagem{widht: 25%;}
+.roupa
+    background-image: linear-grandient(#223232, #2d9);
+    color:white;
+    display: flex;
+    justify-content: center;
+    aling-itens: center;
